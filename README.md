@@ -1,2 +1,3 @@
-# ML
-Machine Learning exercises in Matlab for the Coursera ML course by Andrew Ng.
+# Coursera - Machine Learning
+
+This repository hosts solutions to the course exercises and summary notes of Andrew Ng's Machine Learning course on Coursera.
